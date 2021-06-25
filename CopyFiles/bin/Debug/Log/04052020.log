@@ -1,0 +1,44 @@
+04/05/2020 10:21:47- SIMPLES ---------------------------------------Iniciando sistema
+04/05/2020 10:21:47- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+04/05/2020 10:25:53- SIMPLES ---------------------------------------Iniciando sistema
+04/05/2020 10:25:53- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+04/05/2020 10:26:15- SIMPLES ---------------------------------------Iniciando sistema
+04/05/2020 10:26:15- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+04/05/2020 10:27:19- SIMPLES ---------------------------------------Iniciando sistema
+04/05/2020 10:27:19- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+04/05/2020 10:27:51- SIMPLES ---------------------------------------Iniciando sistema
+04/05/2020 10:27:51- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+04/05/2020 10:28:32- SIMPLES ---------------------------------------Iniciando sistema
+04/05/2020 10:28:33- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+04/05/2020 10:29:28- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM TAREFAS. Erro: SQL logic error
+no such table: TAREFAS
+04/05/2020 10:29:28- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM TAREFAS. Erro: SQL logic error
+no such table: TAREFAS
+04/05/2020 10:29:28- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('TAREFAS', 'CODIGO','I',0,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+04/05/2020 10:29:28- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('TAREFAS', 'DESCRICAO','C',200,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+04/05/2020 10:29:28- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('TAREFAS', 'DATAEXECUCAO','C',0,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+04/05/2020 10:29:28- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('TAREFAS', 'TIPO','C',1,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+04/05/2020 10:29:28- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('TAREFAS', 'STATUS','C',1,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+04/05/2020 10:34:40- SIMPLES ---------------------------------------Iniciando sistema
+04/05/2020 10:34:40- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+04/05/2020 10:36:54- SIMPLES ---------------------------------------Iniciando sistema
+04/05/2020 10:36:54- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+04/05/2020 10:37:04- SIMPLES -Erro: Não foi possível localizar uma parte do caminho '\\localhost\C$\Users\Milena\Desktop\teste20200504\logonew-.gif..gif'.
+04/05/2020 10:39:23- SIMPLES ---------------------------------------Iniciando sistema
+04/05/2020 10:39:23- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+04/05/2020 10:40:15- SIMPLES ---------------------------------------Iniciando sistema
+04/05/2020 10:40:15- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+04/05/2020 10:42:23- SIMPLES ---------------------------------------Iniciando sistema
+04/05/2020 10:42:23- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+04/05/2020 10:44:13- SIMPLES -Erro: Não foi possível localizar uma parte do caminho '\\localhost\C$\Users\Milena\Desktop\teste20200504'.
+04/05/2020 10:44:36- SIMPLES -Erro: Não foi possível localizar uma parte do caminho '\\localhost\C$\Users\Milena\Desktop\teste20200504'.
+04/05/2020 10:48:27- SIMPLES ---------------------------------------Finalizando sistema
+04/05/2020 10:48:43- SIMPLES ---------------------------------------Iniciando sistema
+04/05/2020 10:48:43- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+04/05/2020 10:48:54- SIMPLES -Erro: Não foi possível localizar uma parte do caminho '\\localhost\C$\Users\Milena\Desktop\teste20200504'.
+04/05/2020 10:52:58- SIMPLES ---------------------------------------Finalizando sistema

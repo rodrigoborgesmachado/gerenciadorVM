@@ -1,0 +1,339 @@
+20/04/2020 10:29:05- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 10:29:31- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 10:32:05- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 10:32:05- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 10:32:05- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM AUTOMATICO. Erro: SQL logic error
+no such table: AUTOMATICO
+20/04/2020 10:32:05- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM LOGG. Erro: SQL logic error
+no such table: LOGG
+20/04/2020 10:32:05- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM SERVIDORES. Erro: SQL logic error
+no such table: SERVIDORES
+20/04/2020 10:32:05- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM SERVIDORES. Erro: SQL logic error
+no such table: SERVIDORES
+20/04/2020 10:32:05- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM TABELAS. Erro: SQL logic error
+no such table: TABELAS
+20/04/2020 10:32:05- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM TABELAS. Erro: SQL logic error
+no such table: TABELAS
+20/04/2020 10:32:05- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'CODIGO','I',0,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 10:32:05- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'LINK','C',200,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 10:32:05- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'TIPO','C',1,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 10:32:27- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:01:39- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:01:39- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:01:46- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:02:43- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:02:43- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:02:52- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:03:05- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:03:05- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:03:58- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM CODIGOS_TABLE. Erro: SQL logic error
+no such table: CODIGOS_TABLE
+20/04/2020 11:04:09- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:04:45- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:04:45- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:04:54- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:05:05- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:05:05- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:05:28- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:05:28- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:05:45- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:29:18- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:29:18- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:29:42- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:29:54- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:29:54- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:29:57- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:30:04- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:30:04- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:30:07- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:30:16- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:30:16- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:30:20- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:30:29- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:30:29- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:30:34- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:30:46- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:30:46- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:33:47- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:47:33- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:47:33- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:47:33- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOS. Erro: SQL logic error
+no such table: ARTEFATOS
+20/04/2020 11:47:33- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOS. Erro: SQL logic error
+no such table: ARTEFATOS
+20/04/2020 11:48:02- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:48:03- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:48:28- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:48:28- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:48:28- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOS. Erro: SQL logic error
+no such table: ARTEFATOS
+20/04/2020 11:48:31- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOS. Erro: SQL logic error
+no such table: ARTEFATOS
+20/04/2020 11:48:40- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM LOGG. Erro: SQL logic error
+no such table: LOGG
+20/04/2020 11:48:55- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:48:55- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:48:55- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOS. Erro: SQL logic error
+no such table: ARTEFATOS
+20/04/2020 11:48:57- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOS. Erro: SQL logic error
+no such table: ARTEFATOS
+20/04/2020 11:49:07- SIMPLES -Erro no execute: UPDATE LOGG SET TIPO_LOG = 'C:\Users'. Erro: SQL logic error
+no such table: LOGG
+20/04/2020 11:50:04- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:50:04- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:50:04- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOS. Erro: SQL logic error
+no such table: ARTEFATOS
+20/04/2020 11:50:04- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOS. Erro: SQL logic error
+no such table: ARTEFATOS
+20/04/2020 11:50:04- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM AUTOMATICO. Erro: SQL logic error
+no such table: AUTOMATICO
+20/04/2020 11:50:04- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM LOGG. Erro: SQL logic error
+no such table: LOGG
+20/04/2020 11:50:04- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM SERVIDORES. Erro: SQL logic error
+no such table: SERVIDORES
+20/04/2020 11:50:04- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM SERVIDORES. Erro: SQL logic error
+no such table: SERVIDORES
+20/04/2020 11:50:04- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM TABELAS. Erro: SQL logic error
+no such table: TABELAS
+20/04/2020 11:50:04- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM TABELAS. Erro: SQL logic error
+no such table: TABELAS
+20/04/2020 11:50:04- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'CODIGO','I',0,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 11:50:04- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'LINK','C',200,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 11:50:04- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'TIPO','C',1,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 11:50:53- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:50:55- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:50:55- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:51:12- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 11:51:13- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 11:51:14- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 11:51:22- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 12:15:38- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 12:15:39- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 12:15:39- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSDESTINO. Erro: SQL logic error
+no such table: ARTEFATOSDESTINO
+20/04/2020 12:15:39- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSORIGEM. Erro: SQL logic error
+no such table: ARTEFATOSORIGEM
+20/04/2020 12:15:39- SIMPLES -Problem on the sentence. Sentence: SELECT CAMINHO FROM ARTEFATOSDESTINO. Erro: SQL logic error
+no such table: ARTEFATOSDESTINO
+20/04/2020 12:19:52- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 12:19:52- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 12:19:52- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSDESTINO. Erro: SQL logic error
+no such table: ARTEFATOSDESTINO
+20/04/2020 12:19:52- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSDESTINO. Erro: SQL logic error
+no such table: ARTEFATOSDESTINO
+20/04/2020 12:19:59- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 12:49:59- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 12:49:59- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 12:49:59- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSDESTINO. Erro: SQL logic error
+no such table: ARTEFATOSDESTINO
+20/04/2020 12:49:59- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSDESTINO. Erro: SQL logic error
+no such table: ARTEFATOSDESTINO
+20/04/2020 12:49:59- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSORIGEM. Erro: SQL logic error
+no such table: ARTEFATOSORIGEM
+20/04/2020 12:49:59- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSORIGEM. Erro: SQL logic error
+no such table: ARTEFATOSORIGEM
+20/04/2020 12:49:59- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM AUTOMATICO. Erro: SQL logic error
+no such table: AUTOMATICO
+20/04/2020 12:49:59- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM LOGG. Erro: SQL logic error
+no such table: LOGG
+20/04/2020 12:49:59- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM SERVIDORES. Erro: SQL logic error
+no such table: SERVIDORES
+20/04/2020 12:49:59- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM SERVIDORES. Erro: SQL logic error
+no such table: SERVIDORES
+20/04/2020 12:49:59- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM TABELAS. Erro: SQL logic error
+no such table: TABELAS
+20/04/2020 12:49:59- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM TABELAS. Erro: SQL logic error
+no such table: TABELAS
+20/04/2020 12:49:59- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'CODIGO','I',0,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 12:49:59- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'LINK','C',200,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 12:49:59- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'TIPO','C',1,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 12:50:09- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 12:51:09- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 12:51:09- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 12:51:13- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 12:51:19- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 12:51:19- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 12:51:19- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSDESTINO. Erro: SQL logic error
+no such table: ARTEFATOSDESTINO
+20/04/2020 12:51:19- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSDESTINO. Erro: SQL logic error
+no such table: ARTEFATOSDESTINO
+20/04/2020 12:51:19- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSORIGEM. Erro: SQL logic error
+no such table: ARTEFATOSORIGEM
+20/04/2020 12:51:19- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSORIGEM. Erro: SQL logic error
+no such table: ARTEFATOSORIGEM
+20/04/2020 12:51:19- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM AUTOMATICO. Erro: SQL logic error
+no such table: AUTOMATICO
+20/04/2020 12:51:19- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM LOGG. Erro: SQL logic error
+no such table: LOGG
+20/04/2020 12:51:19- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM SERVIDORES. Erro: SQL logic error
+no such table: SERVIDORES
+20/04/2020 12:51:19- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM SERVIDORES. Erro: SQL logic error
+no such table: SERVIDORES
+20/04/2020 12:51:19- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM TABELAS. Erro: SQL logic error
+no such table: TABELAS
+20/04/2020 12:51:19- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM TABELAS. Erro: SQL logic error
+no such table: TABELAS
+20/04/2020 12:51:19- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'CODIGO','I',0,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 12:51:19- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'LINK','C',200,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 12:51:19- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'TIPO','C',1,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 12:52:41- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 15:32:15- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 15:32:15- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 15:34:33- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 15:34:33- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 15:34:40- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM CODIGOS_TABLE. Erro: SQL logic error
+no such table: CODIGOS_TABLE
+20/04/2020 15:34:48- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 15:35:16- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 15:35:16- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 15:35:22- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 15:35:37- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 15:35:37- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 15:37:38- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 15:37:38- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 15:39:16- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 15:42:21- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 15:42:21- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 15:44:29- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 15:44:29- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 15:45:09- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 15:45:09- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 15:45:10- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 15:45:36- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 15:45:36- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 15:45:40- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 15:46:19- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 15:46:19- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 15:48:08- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 15:48:08- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 15:50:06- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 15:50:06- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:06:49- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:06:49- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:09:00- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:09:01- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:09:44- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:09:44- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:10:10- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:10:11- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:10:50- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 16:16:20- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:16:20- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:16:51- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:16:51- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:22:17- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:22:17- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:23:42- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:23:42- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:24:29- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:24:29- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:25:54- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:25:54- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:25:56- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 16:26:18- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:26:18- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:26:26- SIMPLES -Error: Não foi possível localizar uma parte do caminho '\\localhost\C$\DevTools\Classes2042020'.
+20/04/2020 16:29:59- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:30:00- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:30:06- SIMPLES -Error: Não é possível criar um arquivo já existente.
+
+20/04/2020 16:30:17- SIMPLES -Error: Não é possível criar um arquivo já existente.
+
+20/04/2020 16:33:23- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:33:23- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:33:27- SIMPLES -Error: Não foi possível localizar uma parte do caminho '\\localhost\C$\DevTools\Classes2042020 - old'.
+20/04/2020 16:33:45- SIMPLES -Error: Não foi possível localizar uma parte do caminho '\\localhost\C$\DevTools\Classes2042020'.
+20/04/2020 16:35:39- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:35:39- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:36:00- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 16:42:34- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:42:34- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:43:08- SIMPLES -Error: Não foi possível localizar uma parte do caminho '\\localhost\C$\DevTools\Classes2042020'.
+20/04/2020 16:45:55- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:45:55- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:46:09- SIMPLES -Error: O acesso ao caminho '\\localhost\C$\DevTools\Classes\Logo - Cópia.png' foi negado.
+20/04/2020 16:46:49- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 16:48:24- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:48:24- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:48:37- SIMPLES -Error: Não foi possível localizar uma parte do caminho '\\localhost\C$\DevTools\Classes2042020 - old'.
+20/04/2020 16:49:01- SIMPLES -Error: Não foi possível localizar uma parte do caminho '\\localhost\C$\DevTools\Classes2042020'.
+20/04/2020 16:52:00- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:52:00- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:52:30- SIMPLES -Error: Não foi possível localizar uma parte do caminho '\\localhost\C$\DevTools\Classes2042020'.
+20/04/2020 16:52:31- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 16:53:38- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:53:38- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:54:01- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 16:54:29- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:54:29- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:54:35- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 16:55:01- SIMPLES -Error: Não foi possível localizar uma parte do caminho '\\localhost\C$\DevTools\Classes2042020'.
+20/04/2020 16:57:52- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:57:52- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 16:58:30- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 16:59:02- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 16:59:02- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:01:53- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:01:53- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:01:57- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 17:02:30- SIMPLES -Error: Não foi possível localizar uma parte do caminho '\\localhost\C$\DevTools\Classes2042020'.
+20/04/2020 17:02:37- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 17:03:28- SIMPLES -Error: Não foi possível localizar uma parte do caminho '\\localhost\C$\DevTools\Classes2042020 - old'.
+20/04/2020 17:05:44- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:05:44- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:05:50- SIMPLES -Error: O acesso ao caminho '\\localhost\C$\DevTools\Classes2042020' foi negado.
+20/04/2020 17:06:19- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 17:14:43- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:14:43- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:15:42- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:15:42- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:16:05- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 17:17:15- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:17:15- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:17:24- SIMPLES -Error: O acesso ao caminho '\\localhost\C$\DevTools\Classes2042020' foi negado.
+20/04/2020 17:17:34- SIMPLES -Error: O acesso ao caminho '\\localhost\C$\DevTools\Classes2042020' foi negado.
+20/04/2020 17:18:40- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:18:40- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:18:57- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 17:19:11- SIMPLES -Error: A pasta não está vazia.
+
+20/04/2020 17:19:45- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:19:45- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:19:56- SIMPLES -Error: O acesso ao caminho '\\localhost\C$\DevTools\Classes2042020' foi negado.
+20/04/2020 17:20:20- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 17:20:30- SIMPLES -Error: O acesso ao caminho '\\localhost\C$\DevTools\Classes2042020' foi negado.
+20/04/2020 17:22:36- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:22:36- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:22:48- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 17:22:58- SIMPLES -Erro: O acesso ao caminho '\\localhost\C$\DevTools\Classes2042020' foi negado.
+20/04/2020 17:22:58- SIMPLES -Error: O arquivo '\\localhost\C$\DevTools\Classes2042020\Thumbs.db' já existe.
+20/04/2020 17:24:41- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:24:41- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:24:46- SIMPLES -Error: O acesso ao caminho '\\localhost\C$\DevTools\Classes\Logo - Cópia.png' foi negado.
+20/04/2020 17:25:00- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 17:25:09- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 17:25:21- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 17:26:13- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:26:13- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:28:16- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:28:16- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:28:23- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 17:28:31- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 17:34:39- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:34:39- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Debug\BASE\pckdb.db3
+20/04/2020 17:35:03- SIMPLES -Error: O processo não pode acessar o arquivo 'Thumbs.db' porque ele está sendo usado por outro processo.
+20/04/2020 17:38:34- SIMPLES ---------------------------------------Finalizando sistema
+20/04/2020 17:45:24- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:45:24- SIMPLES -Error: Não foi possível carregar arquivo ou assembly 'System.Data.SQLite, Version=1.0.112.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139' ou uma de suas dependências. Foi feita uma tentativa de se carregar um programa com um formato incorreto.

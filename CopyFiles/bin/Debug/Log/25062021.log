@@ -1,0 +1,2 @@
+25/06/2021 09:41:25- SIMPLES ---------------------------------------Iniciando sistema
+25/06/2021 09:41:25- SIMPLES -Error: Não foi possível carregar arquivo ou assembly 'System.Data.SQLite, Version=1.0.112.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139' ou uma de suas dependências. Foi feita uma tentativa de se carregar um programa com um formato incorreto.

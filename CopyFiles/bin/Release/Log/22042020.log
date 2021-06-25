@@ -1,0 +1,21 @@
+22/04/2020 11:14:22- SIMPLES ---------------------------------------Iniciando sistema
+22/04/2020 11:14:22- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Release\BASE\pckdb.db3
+22/04/2020 11:14:22- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM BATPARARROBO. Erro: SQL logic error
+no such table: BATPARARROBO
+22/04/2020 11:14:22- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM BATPARARROBO. Erro: SQL logic error
+no such table: BATPARARROBO
+22/04/2020 11:14:23- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM BATINICIARROBO. Erro: SQL logic error
+no such table: BATINICIARROBO
+22/04/2020 11:14:23- SIMPLES -Problem on the sentence. Sentence: SELECT CAMINHO FROM BATINICIARROBO. Erro: SQL logic error
+no such table: BATINICIARROBO
+22/04/2020 12:42:26- SIMPLES ---------------------------------------Iniciando sistema
+22/04/2020 12:42:26- SIMPLES -Abrindo conexão. Banco: C:\Users\Milena\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\Release\BASE\pckdb.db3
+22/04/2020 12:42:26- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM BATINICIARROBO. Erro: SQL logic error
+no such table: BATINICIARROBO
+22/04/2020 12:42:26- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM BATINICIARROBO. Erro: SQL logic error
+no such table: BATINICIARROBO
+22/04/2020 12:42:26- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM BATREINICIARROBO. Erro: SQL logic error
+no such table: BATREINICIARROBO
+22/04/2020 12:42:26- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM BATREINICIARROBO. Erro: SQL logic error
+no such table: BATREINICIARROBO
+22/04/2020 12:42:31- SIMPLES ---------------------------------------Finalizando sistema

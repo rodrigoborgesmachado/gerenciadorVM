@@ -1,0 +1,33 @@
+20/04/2020 17:44:29- SIMPLES -Error: Não foi possível carregar arquivo ou assembly 'System.Data.SQLite, Version=1.0.112.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139' ou uma de suas dependências. Foi feita uma tentativa de se carregar um programa com um formato incorreto.
+20/04/2020 17:48:47- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:48:47- SIMPLES -Error: Não foi possível carregar arquivo ou assembly 'System.Data.SQLite, Version=1.0.112.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139' ou uma de suas dependências. Foi feita uma tentativa de se carregar um programa com um formato incorreto.
+20/04/2020 17:49:08- SIMPLES ---------------------------------------Iniciando sistema
+20/04/2020 17:49:08- SIMPLES -Abrindo conexão. Banco: C:\Users\5204pc_rodrigo\Documents\Projects\CopyFiles\CopyFiles\bin\Release\BASE\pckdb.db3
+20/04/2020 17:49:08- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSDESTINO. Erro: SQL logic error
+no such table: ARTEFATOSDESTINO
+20/04/2020 17:49:08- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSDESTINO. Erro: SQL logic error
+no such table: ARTEFATOSDESTINO
+20/04/2020 17:49:08- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSORIGEM. Erro: SQL logic error
+no such table: ARTEFATOSORIGEM
+20/04/2020 17:49:08- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM ARTEFATOSORIGEM. Erro: SQL logic error
+no such table: ARTEFATOSORIGEM
+20/04/2020 17:49:08- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM AUTOMATICO. Erro: SQL logic error
+no such table: AUTOMATICO
+20/04/2020 17:49:08- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM LOGG. Erro: SQL logic error
+no such table: LOGG
+20/04/2020 17:49:08- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM SERVIDORES. Erro: SQL logic error
+no such table: SERVIDORES
+20/04/2020 17:49:08- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM SERVIDORES. Erro: SQL logic error
+no such table: SERVIDORES
+20/04/2020 17:49:09- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM TABELAS. Erro: SQL logic error
+no such table: TABELAS
+20/04/2020 17:49:09- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM TABELAS. Erro: SQL logic error
+no such table: TABELAS
+20/04/2020 17:49:09- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'CODIGO','I',0,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 17:49:09- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'LINK','C',200,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 17:49:09- SIMPLES -Erro no execute: INSERT INTO TABELAS (tab,field,type,size,prec,flags) VALUES ('SERVIDORES', 'TIPO','C',1,0,0). Erro: SQL logic error
+table TABELAS has no column named flags
+20/04/2020 17:49:42- SIMPLES -Problem on the sentence. Sentence: SELECT 1 FROM CODIGOS_TABLE. Erro: SQL logic error
+no such table: CODIGOS_TABLE
